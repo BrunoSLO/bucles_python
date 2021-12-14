@@ -35,8 +35,8 @@ alguno de lo soportados o no es la palabra "FIN".
 
 print("Mi Calculadora (^_^)")
 # Empezar aquí la resolución del ejercicio
-numero_1 = int(input("ingresar primer numero: "))
-numero_2 = int(input("ingresar segundo numero: "))
+numero_1 = int(input("ingresar primer numero:\n"))
+numero_2 = int(input("ingresar segundo numero:\n"))
 
 while True:
 
